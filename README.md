@@ -11,7 +11,7 @@
 ```
 ./ (project-root)
 │
-├── beakjoon
+├── baekjoon
 │   ├── [문제번호]
 │   └── [카테고리]
 │        ├── [문제번호]
